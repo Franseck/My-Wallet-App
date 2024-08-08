@@ -1,0 +1,12 @@
+body {
+    background: rgb(80, 103, 100);
+    font-family: "Sigmar One", sans-serif;
+    color: rgb(158, 135, 51);
+}
+h2, h4{
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+.clear-btn {
+    margin-bottom: 1.2rem;
+}
